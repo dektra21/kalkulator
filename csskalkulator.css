@@ -1,0 +1,10 @@
+.kalkulator{
+   width: 100%;
+}
+.kalkulator table{
+    border: none;
+}
+.kalkulator INPUT{
+    width: 50px;
+
+}
